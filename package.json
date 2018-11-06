@@ -1,0 +1,20 @@
+{
+  "name": "decisiongame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --pretty && node dist/decision.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperMeier/DecisionGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperMeier/DecisionGame/issues"
+  },
+  "homepage": "https://github.com/DeveloperMeier/DecisionGame#readme"
+}
